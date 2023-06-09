@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rdpd_backcover" size="5.000000 8.355091" />
+    <ImageTarget name="Rdpd_frontcover" size="5.000000 8.030113" />
+  </Tracking>
+</QCARConfig>
